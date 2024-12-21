@@ -7,3 +7,6 @@ Pixel Runner is a simple Python game built using the Pygame module. The objectiv
 - Dodge incoming enemies by jumping over them or staying still.
 - The game speeds up over time, increasing the difficulty.
 - Try to beat your highest score!
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/a6f26914-de1d-4f1a-993f-dbad8a689edd)
